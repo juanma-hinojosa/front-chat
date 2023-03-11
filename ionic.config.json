@@ -1,0 +1,7 @@
+{
+  "name": "smart-chat-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
